@@ -30,7 +30,7 @@ terminal-border: "0"
     selected_item_pixmap_style = "select_*.png"
 }
 
-# Countdown (centered block under menu) / Cuenta regresiva (bloque central debajo del menú) - Note for spanish: cambiar lo que hay entre "" en caso de querer ponerlo en español ¡conservando %ds!
+# Countdown (centered block under menu) / Cuenta regresiva (bloque central debajo del menú) - Note for spanish: cambiar lo que hay entre "" en caso de querer ponerlo en español ¡conservar %ds,!
 + label {
     left = 36%
     top = 90%
