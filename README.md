@@ -19,11 +19,11 @@ cd ATLA-GRUB
 ```
 **Step 3: Make the installer script executable**
 ```bash
-chmod +x install.sh
+chmod +x Install.sh
 ```
 **Step 4. Run the installer script**
 ```bash
-sudo ./install.sh
+sudo ./Install.sh
 ```
 Select display resolution:
 1) Full HD (1920x1080)
