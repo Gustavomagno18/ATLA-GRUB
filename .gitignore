@@ -1,0 +1,10 @@
+# Editor & OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+.vscode/
+.idea/
+
+# Custom build or testing outputs
+*.log
