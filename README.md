@@ -1,6 +1,10 @@
-# ATLA GRUB Theme
+# 🌀 ATLA GRUB Theme
 
 A clean and elegant GRUB theme inspired by Avatar: The Last Airbender, featuring full multi-resolution support (FHD, 2K, 4K).
+
+## 🖼️ Preview / Vista previa
+
+![ATLA GRUB](preview.png)
 
 ---
 
