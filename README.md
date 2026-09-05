@@ -26,10 +26,11 @@ chmod +x Install.sh
 sudo ./Install.sh
 ```
 Select display resolution:
-1) Full HD (1920x1080)
-2) 2K (2560x1440)
-3) 4K (3840x2160)
-Enter choice [1-3]:
+1) HD (1280x720-1366x768)
+2) Full HD (1920x1080)
+3) 2K (2560x1440)
+4) 4K (3840x2160)
+Enter choice [1-4]:
  
 **(optional) Step 5. Update GRUB so it applies the theme (check way for your distribution)**
 ```bash
