@@ -14,18 +14,20 @@ fi
 
 # 2. Selección de resolución
 echo "Selecciona la resolución de pantalla:"
-echo "1) Full HD (1920x1080)"
-echo "2) 2K (2560x1440)"
-echo "3) 4K (3840x2160)"
-read -rp "Ingresa tu opción [1-3]: " res_choice
+echo "1) HD (1280x720-1366x768)"
+echo "2) Full HD (1920x1080)"
+echo "3) 2K (2560x1440)"
+echo "4) 4K (3840x2160)"
+read -rp "Ingresa tu opción [1-4]: " res_choice
 
 case $res_choice in
-    1) GFXMODE="1920x1080x32" ;;
-    2) GFXMODE="2560x1440x32" ;;
-    3) GFXMODE="3840x2160x32" ;;
+    1) GFXMODE="1366x768x32,1280x720x32,auto" ;;
+    2) GFXMODE="1920x1080x32,auto" ;;
+    3) GFXMODE="2560x1440x32,auto" ;;
+    4) GFXMODE="3840x2160x32,auto" ;;
     *)
         echo "Opción no válida. Se usará la resolución por defecto (1920x1080x32)."
-        GFXMODE="1920x1080x32"
+        GFXMODE="1920x1080x32,auto"
         ;;
 esac
 
