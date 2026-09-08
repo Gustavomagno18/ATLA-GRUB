@@ -21,7 +21,7 @@ case $lang_choice in
         MSG_RES_PROMPT="Enter your choice [1-4]: "
         MSG_RES_INVALID="Invalid option. Using default resolution (1920x1080x32)."
         MSG_BG_TITLE="Select background wallpaper:"
-        MSG_BG_1="1) Avatar gang wallpaper"
+        MSG_BG_1="1) Team Avatar"
         MSG_BG_2="2) Temple of Air"
         MSG_BG_3="3) Avatar Island"
         MSG_BG_4="4) Tui and La"

@@ -34,7 +34,7 @@ Enter choice [1-4]:
 
 **Step 5. Chosee the background you prefer**
 
-1) Avatar gang wallpaper
+1) Team Avatar
 2) Temple of Air
 3) Avatar Island
 4) Tui and La
