@@ -31,12 +31,22 @@ Select display resolution:
 3) 2K (2560x1440)
 4) 4K (3840x2160)
 Enter choice [1-4]:
+
+**Step 5. Chosee the background you prefer**
+
+1) Avatar gang wallpaper
+2) Temple of Air
+3) Avatar Island
+4) Tui and La
+5) Avatar Korra
+6) Avatar Wang
+Enter choice [1-6]:
  
-**(optional) Step 5. Update GRUB so it applies the theme (check way for your distribution)**
+**(optional) Step 6. Update GRUB so it applies the theme (check way for your distribution)**
 ```bash
 sudo update-grub
 ```
-**(optional) Step 5 for Arch-distributions. Update GRUB so it applies the theme**
+**(optional) Step 6 for Arch-distributions. Update GRUB so it applies the theme**
 ```bash
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
@@ -51,8 +61,8 @@ You can also follow me for more GRUB themes and Linux customizations:
 
 ## 📜 Credits & Attribution
 
-* **Background Artwork:** Official *Avatar: The Last Airbender* promotional illustration.
-* **Source:** Downloaded via [WallpaperFlare](https://www.wallpaperflare.com/avatar-the-last-airbender-wallpaper-cyiva).
-* **Font:** Retro Gaming.
+* **Backgrounds Artworks:** Official *Avatar: The Last Airbender* promotional illustration and others.
+* **Source:** Downloaded via [WallpaperFlare](https://www.wallpaperflare.com).
+* **Typography:** *Retro Gaming* font.
 
-> *Note: All rights to "Avatar: The Last Airbender", character designs, and original artwork belong to Nickelodeon / Paramount and creators Michael Dante DiMartino & Bryan Konietzko. This GRUB theme is a non-commercial, open-source community project distributed under the MIT License.*
+> **Disclaimer:** All rights to *Avatar: The Last Airbender*, character designs, logos, and original artworks belong to **Nickelodeon / Paramount Global** and series creators **Michael Dante DiMartino & Bryan Konietzko**. This GRUB theme is a non-commercial, open-source community project created for fan enjoyment and distributed under the **MIT License**.
