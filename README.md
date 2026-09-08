@@ -32,7 +32,7 @@ Select display resolution:
 4) 4K (3840x2160)
 Enter choice [1-4]:
 
-**Step 5. Chosee the background you prefer**
+Select background wallpaper:
 
 1) Team Avatar
 2) Temple of Air
@@ -42,11 +42,11 @@ Enter choice [1-4]:
 6) Avatar Wang
 Enter choice [1-6]:
  
-**(optional) Step 6. Update GRUB so it applies the theme (check way for your distribution)**
+**(optional) Step 5. Update GRUB so it applies the theme (check way for your distribution)**
 ```bash
 sudo update-grub
 ```
-**(optional) Step 6 for Arch-distributions. Update GRUB so it applies the theme**
+**(optional) Step 5 for Arch-distributions. Update GRUB so it applies the theme**
 ```bash
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
