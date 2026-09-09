@@ -9,7 +9,7 @@ A clean and elegant GRUB theme inspired by Avatar: The Last Airbender, featuring
 ---
 
 ## 📥 Installation Instructions
-**Step 1: Clone the theme repository**
+**Step 1: Clone the theme repository in your terminal**
 ```bash
 git clone https://github.com/Gustavomagno18/ATLA-GRUB.git
 ```
